@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Horiseon Social Solution Services - Bootcamp Challenge #1
 
 
 ## Description
@@ -42,22 +42,22 @@ SO THAT our own site is optimized for search engines
 ## Acceptance Criteria
 
 GIVEN a webpage meets accessibility standards
-[x]  WHEN I view the source code
-[x]  THEN I find semantic HTML elements
-[x]  WHEN I view the structure of the HTML elements
-[x]  THEN I find that the elements follow a logical    structure independent of styling and positioning
-[x]  WHEN I view the image elements
-[x]  THEN I find accessible alt attributes
-[]  WHEN I view the heading attributes
-[]  THEN they fall in sequential order
-[x]  WHEN I view the title element
-[x]  THEN I find a concise, descriptive title
+:white_check_mark:  WHEN I view the source code
+- [x] THEN I find semantic HTML elements
+- [x] WHEN I view the structure of the HTML elements
+- [x]  THEN I find that the elements follow a logical    structure independent of styling and positioning
+- [x]  WHEN I view the image elements
+- [x]  THEN I find accessible alt attributes
+- [x]  WHEN I view the heading attributes
+- [x]  THEN they fall in sequential order
+- [x]  WHEN I view the title element
+- [x]  THEN I find a concise, descriptive title
 
 Additional rubric requirements:
 
-[x]  Application's links all function correctly.
-[]  Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-[]  Application's CSS file is properly commented.
+- [x] Application's links all function correctly.
+- [x]  Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+- [x]  Application's CSS file is properly commented.
 
 
 ## Credits
