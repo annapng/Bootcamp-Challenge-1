@@ -3,33 +3,13 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This first Challenge Assignment given by the DU Full Stack Bootcamp shows off my newfound abilities of being able to fix various issues within a given set of code. I solved some broken links as well as organized and commented on the code, to make it more easily navigatable to newcomers. The most valuable lessons I've learned on this project were the deeper dives into Git and Github - of how to get a new directory started in my computer as well as troubleshooting various Github deployment issues. 
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+Overall, I believe this was a successful project on my end. 
 
+Link to deployed website: https://annapng.github.io/bootcamp-challenge-1/  
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+ ![Screenshot of deployed website](assets/images/screenshot.png)
 
 
 ## User Story
@@ -62,13 +42,10 @@ Additional rubric requirements:
 
 ## Credits
 
-https://github.com/Xandromus
-@Xandromus
-Xander Rapstine
-
+Starter code originally published by @Xandromus on Github (https://github.com/Xandromus).
 
 
 ## License
 
-
+Unlicensed - Created for a Private Project within DU Bootcamp
 
